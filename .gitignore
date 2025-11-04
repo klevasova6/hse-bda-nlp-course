@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.egg-info/
+dist/
+build/
+.cache/
