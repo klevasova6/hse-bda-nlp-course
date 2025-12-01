@@ -20,6 +20,7 @@ https://colab.research.google.com/github.com/AlbinaBurlova/hse-bda-nlp-course/bl
 - Blei et al., [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  
 - Jurafsky & Martin, [Speech and Language Processing (SLP3): Pointwise Mutual Information (PMI)](https://web.stanford.edu/~jurafsky/slp3/J.pdf)
 - [Word2Vec: a Prediction-Based Method (Lena Voita NLP Course)](https://lena-voita.github.io/nlp_course/word_embeddings.html#:~:text=Word2Vec%3A%20a%20Prediction%2DBased%20Method)
+- [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
 
 Библиотеки и инструменты:
 
